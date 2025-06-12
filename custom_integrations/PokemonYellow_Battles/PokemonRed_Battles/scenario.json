@@ -1,0 +1,16 @@
+{
+  "done": {
+    "script": "lua:done_check"
+  },
+  "reward": {
+    "script": "lua:faints"
+  },
+  "scripts": [
+    "script.lua"
+  ],
+  "actions": [
+    [[], ["UP"], ["DOWN"]],
+    [[], ["LEFT"], ["RIGHT"]],
+    [[], ["A"], ["B"], ["START"]]
+  ]
+}

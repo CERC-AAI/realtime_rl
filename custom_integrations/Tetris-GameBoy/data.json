@@ -1,0 +1,16 @@
+{
+  "info": {
+    "game_state": {
+      "address": 65505,
+      "type": "|i1"
+    },
+    "level": {
+      "address": 65449,
+      "type": "|d1"
+    },
+    "score_bcd": {
+      "address": 49312,
+      "type": "|d2"
+    }
+  }
+}

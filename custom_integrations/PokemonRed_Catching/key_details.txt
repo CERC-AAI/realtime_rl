@@ -1,0 +1,93 @@
+Save States Stored in Bulb_C1-C91
+
+- 1: Rattata
+- 2: Pidgey 
+- 3: Nidoran-F
+- 4: Nidoran-M
+- 5: Kakuna
+- 6: Weedle
+- 7: Metapod
+- 8: Caterpie
+- 9: Pikachu
+- 10: Jigglypuff
+- 11: Zubat
+- 12: Clefairy
+- 13: Paras
+- 14: Geodude
+- 15: Oddish
+- 16: Abra
+- 17: Magikarp
+- 18: Spearow
+- 19: Ekans
+- 20: Drowzee
+- 21: Diglett
+- 22: Dugtrio
+- 23: Voltorb
+- 24: Machop
+- 25: Duduo
+- 26: Gastly
+- 27: Cubone
+- 28: Haunter
+- 29: Snorlax
+- 30: Poliwag
+- 31: Slowpoke
+- 32: Poliwhirl
+- 33: Tentacool
+- 34: Krabby
+- 35: Mankey
+- 36: Growlithe
+- 37: Ditto
+- 38: Venonat
+- 39: Pidgeotto
+- 40: Gloom
+- 41: Goldeen
+- 42: Nidorino - Safari Zone
+- 43: Exeggcute - Safari Zone 
+- 44: Rhyhorn - Safari Zone 
+- 45: Dratini - Safari Zone
+- 46: Nidorina - Safari Zone
+- 47: Kangaskhan - Safari Zone
+- 48: Tauros - Safari Zone
+- 49: Scyther - Safari Zone
+- 50: Fearow
+- 51: Raticate
+- 52: Tangela
+- 53: Ponyta
+- 54: Koffing
+- 55: Weezing
+- 56: Grimer
+- 57: Muk
+- 58: Seel
+- 59: Horsea
+- 60: Shellder
+- 61: Articuno
+- 62: Slowbro
+- 63: Staryu
+- 64: Dewgong
+- 65: Psyduck
+- 66: Golbat
+- 67: Golduck
+- 68: Magneton
+- 69: Electabuzz
+- 70: Magnemite 
+- 71: Electrode
+- 72: Zapdos
+- 73: Kingler
+- 74: Seadra
+- 75: Seaking
+- 76: Onix
+- 77: Machoke
+- 78: Venomoth
+- 79: Graveler
+- 80: Moltres
+- 81: Dodrio
+- 82: Kadabra
+- 83: Hypno
+- 84: Raichu
+- 85: Arbok
+- 86: Rhydon
+- 87: Chansey
+- 88: Parasect
+- 89: Marowak
+- 90: Wigglytuff
+- 91: Mewtwo

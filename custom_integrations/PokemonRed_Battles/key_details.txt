@@ -1,0 +1,25 @@
+Save States Stored in Bulb_B1-B284
+
+- 1: Rival Opening Battle
+- 5: Rival Rt 22 
+- 6: Jr Trainer Pewter Gym
+- 7: Brock
+- 28: Rival Cerulean City
+- 42: Misty
+- 78: Rival SS Anne
+- 82: Lt. Surge
+- 113: Rival Pokemon Tower
+- 121: Erika
+- 134: Giovanni Celadon Game Corner
+- 186: Koga
+- 210: Rival Silph Co
+- 216: Giovanni Silph Co
+- 224: Sabrina 
+- 243: Blaine
+- 267: Giovanni
+- 268: Rival Rt 22 Final
+- 280: Lorelei 
+- 281: Bruno
+- 282: Agatha
+- 283: Lance
+- 284: Champion

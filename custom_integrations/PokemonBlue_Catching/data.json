@@ -1,0 +1,184 @@
+{
+  "info": {
+    "InBattle": {
+      "address": 53335,
+      "type": "|i1"
+    },
+    "Item1": {
+      "address": 54047,
+      "type": "|i1"
+    },
+    "Owned1": {
+      "address": 54007,
+      "type": "|i1"
+    },
+    "Owned10": {
+      "address": 54016,
+      "type": "|i1"
+    },
+    "Owned11": {
+      "address": 54017,
+      "type": "|i1"
+    },
+    "Owned12": {
+      "address": 54018,
+      "type": "|i1"
+    },
+    "Owned13": {
+      "address": 54019,
+      "type": "|i1"
+    },
+    "Owned14": {
+      "address": 54020,
+      "type": "|i1"
+    },
+    "Owned15": {
+      "address": 54021,
+      "type": "|i1"
+    },
+    "Owned16": {
+      "address": 54022,
+      "type": "|i1"
+    },
+    "Owned17": {
+      "address": 54023,
+      "type": "|i1"
+    },
+    "Owned18": {
+      "address": 54024,
+      "type": "|i1"
+    },
+    "Owned19": {
+      "address": 54025,
+      "type": "|i1"
+    },
+    "Owned2": {
+      "address": 54008,
+      "type": "|i1"
+    },
+    "Owned3": {
+      "address": 54009,
+      "type": "|i1"
+    },
+    "Owned4": {
+      "address": 54010,
+      "type": "|i1"
+    },
+    "Owned5": {
+      "address": 54011,
+      "type": "|i1"
+    },
+    "Owned6": {
+      "address": 54012,
+      "type": "|i1"
+    },
+    "Owned7": {
+      "address": 54013,
+      "type": "|i1"
+    },
+    "Owned8": {
+      "address": 54014,
+      "type": "|i1"
+    },
+    "Owned9": {
+      "address": 54015,
+      "type": "|i1"
+    },
+    "box_qnt": {
+      "address": 55936,
+      "type": "|i1"
+    },
+    "exp1": {
+      "address": 53625,
+      "type": ">u3"
+    },
+    "exp2": {
+      "address": 53669,
+      "type": ">u3"
+    },
+    "exp3": {
+      "address": 53713,
+      "type": ">u3"
+    },
+    "exp4": {
+      "address": 53757,
+      "type": ">u3"
+    },
+    "exp5": {
+      "address": 53801,
+      "type": ">u3"
+    },
+    "exp6": {
+      "address": 53845,
+      "type": ">u3"
+    },
+    "mapID": {
+      "address": 54109,
+      "type": ">d2"
+    },
+    "money": {
+      "address": 54087,
+      "type": ">d3"
+    },
+    "my_hp1": {
+      "address": 53612,
+      "type": ">u2"
+    },
+    "my_hp2": {
+      "address": 53656,
+      "type": ">u2"
+    },
+    "my_hp3": {
+      "address": 53700,
+      "type": ">u2"
+    },
+    "my_hp4": {
+      "address": 53744,
+      "type": ">u2"
+    },
+    "my_hp5": {
+      "address": 53788,
+      "type": ">u2"
+    },
+    "my_hp6": {
+      "address": 53832,
+      "type": ">u2"
+    },
+    "opp_hp1": {
+      "address": 55461,
+      "type": ">u2"
+    },
+    "opp_hp2": {
+      "address": 55505,
+      "type": ">u2"
+    },
+    "opp_hp3": {
+      "address": 55549,
+      "type": ">u2"
+    },
+    "opp_hp4": {
+      "address": 55593,
+      "type": ">u2"
+    },
+    "opp_hp5": {
+      "address": 55637,
+      "type": ">u2"
+    },
+    "opp_hp6": {
+      "address": 55681,
+      "type": ">u2"
+    },
+    "party_size": {
+      "address": 53603,
+      "type": "|i1"
+    },
+    "xPosOverworld": {
+      "address": 54114,
+      "type": "|i1"
+    },
+    "yPosOverworld": {
+      "address": 54113,
+      "type": "|i1"
+    }
+  }
+}

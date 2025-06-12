@@ -1,0 +1,25 @@
+Save States Stored in Pika_B1-B288
+
+- 1: Rival Opening Battle 
+- 7: Rival Route 22 
+- 9: Brock
+- 29: Jesse and James Mt Moon
+- 30: Rival Cerulean City
+- 49: Misty 
+- 83: Rival SS Anne
+- 87: Surge
+- 125: Erika
+- 137: Giovanni Celadon
+- 138: Rival Pokemon Tower
+- 183: Koga
+- 217: Rival Silph
+- 219: Giovanni Silph
+- 235: Sabrina
+- 259: Blaine
+- 270: Giovanni Viridian
+- 271: Rival Rt 22
+- 284: Lorelei
+- 285: Bruno
+- 286: Agatha
+- 287: Lance
+- 288: Champion

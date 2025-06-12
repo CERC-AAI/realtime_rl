@@ -1,0 +1,95 @@
+Save States Stored in Squirt_C1-C93
+
+- 1: Rattata 
+- 2: Pidgey
+- 3: Nidoran-F
+- 4: Spearow
+- 5: Metapod
+- 6: Pikachu
+- 7: Jigglypuff
+- 8: Zubat
+- 9: Clefairy
+- 10: Geodude
+- 11: Paras
+- 12: Sandshrew
+- 13: Bellsprout
+- 14: Abra
+- 15: Caterpie
+- 16: Kakuna
+- 17: Meowth
+- 18: Magikarp
+- 19: Diglett
+- 20: Dugtrio
+- 21: Drowzee
+- 22: Sandshrew
+- 23: Weedle
+- 24: Voltorb
+- 25: Machop
+- 26: Onix
+- 27: Raticate
+- 28: Doduo
+- 29: Gastly
+- 30: Haunter
+- 31: Cubone
+- 32: Snorlax
+- 33: Poliwhirl
+- 34: Venonat
+- 35: Ditto
+- 36: Pidgeotto
+- 37: Weepinbell
+- 38: Safari Zone - Nidorina 
+- 39: Safari Zone - Exeggcute
+- 40: Safari Zone - Rhyhorn
+- 41: Safari Zone - Dratini
+- 42: Safari Zone - Nidorino
+- 43: Safari Zone - Kangaskhan
+- 44: Safari Zone - Tauros
+- 45: Safari Zone - Pinsir 
+- 46: Tangela 
+- 47: Pidgeotto
+- 48: Tentacool
+- 49: Ponyta
+- 50: Koffing
+- 51: Grimer
+- 52: Vulpix
+- 53: Magmar
+- 54: Muk
+- 55: Krabby
+- 56: Psyduck
+- 57: Staryu
+- 58: Seel
+- 59: Dewgong
+- 60: Slowpoke
+- 61: Shellder
+- 62: Articuno
+- 63: Golbat
+- 64: Magnemite
+- 65: Magneton
+- 66: Voltorb
+- 67: Raichu
+- 68: Electrode
+- 69: Zapdos
+- 70: Poliwag
+- 71: Goldeen
+- 72: Horsea
+- 73: Weezing
+- 74: Golduck
+- 75: NidoranM
+- 76: Seaking
+- 77: Kingler
+- 78: Slowbro
+- 79: Seadra
+- 80: Sandslash
+- 81: Graveler
+- 82: Machoke
+- 83: Venomoth
+- 84: Moltres
+- 85: Marowak
+- 86: Rhydon
+- 87: Wigglytuff
+- 88: Kadabra
+- 89: Dodrio
+- 90: Chansey
+- 91: Parasect
+- 92: Hypno
+- 93: Mewtwo

@@ -1,0 +1,96 @@
+{
+  "info": {
+    "exp1": {
+      "address": 53624,
+      "type": ">u3"
+    },
+    "exp2": {
+      "address": 53668,
+      "type": ">u3"
+    },
+    "exp3": {
+      "address": 53712,
+      "type": ">u3"
+    },
+    "exp4": {
+      "address": 53756,
+      "type": ">u3"
+    },
+    "exp5": {
+      "address": 53800,
+      "type": ">u3"
+    },
+    "exp6": {
+      "address": 53844,
+      "type": ">u3"
+    },
+    "mapID": {
+      "address": 54108,
+      "type": ">d2"
+    },
+    "money": {
+      "address": 54086,
+      "type": ">d3"
+    },
+    "my_hp1": {
+      "address": 53611,
+      "type": ">u2"
+    },
+    "my_hp2": {
+      "address": 53655,
+      "type": ">u2"
+    },
+    "my_hp3": {
+      "address": 53699,
+      "type": ">u2"
+    },
+    "my_hp4": {
+      "address": 53743,
+      "type": ">u2"
+    },
+    "my_hp5": {
+      "address": 53787,
+      "type": ">u2"
+    },
+    "my_hp6": {
+      "address": 53831,
+      "type": ">u2"
+    },
+    "opp_hp1": {
+      "address": 55460,
+      "type": ">u2"
+    },
+    "opp_hp2": {
+      "address": 55504,
+      "type": ">u2"
+    },
+    "opp_hp3": {
+      "address": 55548,
+      "type": ">u2"
+    },
+    "opp_hp4": {
+      "address": 55592,
+      "type": ">u2"
+    },
+    "opp_hp5": {
+      "address": 55636,
+      "type": ">u2"
+    },
+    "opp_hp6": {
+      "address": 55680,
+      "type": ">u2"
+    },
+    "party_size": {
+      "address": 53602,
+      "type": "|i1"
+    },
+    "xPosOverworld": {
+      "address": 54113,
+      "type": "|i1"
+    },
+    "yPosOverworld": {
+      "address": 54112,
+      "type": "|i1"
+    }
+  }
+}

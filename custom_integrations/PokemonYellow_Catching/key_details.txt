@@ -1,0 +1,94 @@
+Save States Stored in Pika_C1-C92
+
+- 1: Caterpie
+- 2: Metapod
+- 3: Pidgey
+- 4: NidoranF
+- 5: Mankey
+- 6: Sandshrew
+- 7: Rattata
+- 8: Spearow
+- 9: Zubat
+- 10: Paras
+- 11: Geodude
+- 12: Clefairy
+- 13: Bellsprout
+- 14: Oddish
+- 15: Abra
+- 16: Jigglypuff
+- 17: Magikarp
+- 18: Diglett
+- 19: Dugtrio (Tough One)
+- 20: Drowzee
+- 21: Pidgeotto
+- 22: Magnemite
+- 23: NidoranM
+- 24: Machop
+- 25: Doduo
+- 26: Raticate
+- 27: Gastly
+- 28: Haunter
+- 29: Cubone
+- 30: Snorlax
+- 31: Seadra
+- 32: Horsea
+- 33: Goldeen
+- 34: Seaking
+- 35: Dodrio
+- 36: Fearow
+- 37: Ponyta
+- 38: Tentacool
+- 39: Shellder
+- 40: Exeggcute - Safari Zone
+- 41: Kangaskhan - Safari Zone
+- 42: Dragonair - Safari Zone
+- 43: Dratini - Safari Zone
+- 44: Marowak - Safari Zone
+- 45: Pinsir - Safari Zone
+- 46: Tauros - Safari Zone
+- 47: Tangela - Safari Zone
+- 48: Scyther - Safari Zone
+- 49: Krabby
+- 50: Kingler
+- 51: Poliwag
+- 52: Poliwhirl
+- 53: Staryu
+- 54: Psyduck
+- 55: Golduck
+- 56: Gyarados
+- 57: Kadabra
+- 58: Slowpoke
+- 59: Weepinbell
+- 60: Farfetch'd
+- 61: Gloom
+- 62: Venonat
+- 63: Tentacruel
+- 64: Voltorb
+- 65: Grimer
+- 66: Magneton
+- 67: Electrode
+- 68: Muk
+- 69: Zapdos
+- 70: Raticate
+- 71: Growlithe
+- 72: Dewgong
+- 73: Articuno
+- 74: Golbat
+- 75: Seel
+- 76: Slowbro
+- 77: Primeape
+- 78: Nidorino
+- 79: Nidorina
+- 80: Graveler
+- 81: Onix
+- 82: Machoke
+- 83: Moltres
+- 84: Rhydon
+- 85: Rhyhorn
+- 86: Sandslash
+- 87: Ditto
+- 88: Chansey
+- 89: Lickitung
+- 90: Mewtwo
+- 91: Venomoth
+- 92: Parasect

@@ -1,0 +1,28 @@
+Save States Stored in Squirt_B1-B295
+
+- 1: Rival Opening Battle 
+- 5: Rival Rt 22
+- 6: Pewter Jr Trainer
+- 7: Brock
+- 28: Rival Cerulean
+- 47: Misty
+- 48: Rocket Dig Trainer
+- 65: SS Anne First Trainer
+- 81: Rival SS Anne
+- 85: Lt. Surge 
+- 96: First Battle Rock Tunnel
+- 123: Erika 
+- 136: Giovanni Celadon Game Corner
+- 137: Rival Lavendar Town
+- 205: Koga
+- 231: Rival Silph
+- 233: Giovanni Silph Co
+- 246: Sabrina
+- 265: Blaine
+- 277: Giovanni Gym
+- 278: Rival Rt 22 Final
+- 291: Lorelei
+- 292: Bruno
+- 293: Agatha
+- 294: Lance
+- 295: Champion
