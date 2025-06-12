@@ -1,5 +1,6 @@
 # Realtime RL
 Code for Enabling Realtime Reinforcement Learning at Scale with Staggered Asynchronous Inference
+- 📄 [Enabling Realtime Reinforcement Learning at Scale with Staggered Asynchronous Inference](https://openreview.net/pdf?id=fXb9BbuyAD)
 
 <img src="env_image/realtime_rl_method.png" alt="Realtime RL Method" width="1000"/>
 
